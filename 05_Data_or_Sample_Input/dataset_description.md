@@ -6,7 +6,7 @@
 - **Source / Publisher:** Ai4Privacy
 - **Official URL:** https://huggingface.co/datasets/ai4privacy/pii-masking-200k
 - **DOI:** 10.57967/hf/1532
-- **License:** CC BY-NC 4.0 (non-commercial use with attribution — suitable for this academic FYP; not for commercial redistribution)
+- **License:** CC BY-NC 4.0 (non-commercial use with attribution, suitable for this academic FYP; not for commercial redistribution)
 
 ## Description
 The dataset contains approximately 209,000 synthetically generated text samples across four languages (English ~43k, French ~62k, German ~52k, Italian ~50k), each annotated with spans of personally identifiable information (PII) covering dozens of entity classes (e.g. names, email addresses, phone numbers, ID numbers, financial account references, addresses). Because the text is entirely synthetic, no real individuals' data is exposed, which avoids the PDPA-related restrictions that would apply to a real corporate or personal dataset.
@@ -36,4 +36,4 @@ dataset = load_dataset("ai4privacy/pii-masking-200k")
 ```
 
 ## Other Data Types Not Applicable
-This project does not use image, network log, or sensor data — only text — so the `Sample images`, `Sample network logs`, and `Sample sensor data` subfolders listed in the repository template are not applicable and are omitted.
+This project does not use image, network log, or sensor data, only text, so the `Sample images`, `Sample network logs`, and `Sample sensor data` subfolders listed in the repository template are not applicable and are omitted.
