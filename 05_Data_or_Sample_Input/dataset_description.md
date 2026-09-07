@@ -27,7 +27,7 @@ This project's artefact is a content-aware DLP classification engine intended to
 
 ## Upload Note
 Per the assignment brief, the full dataset (~365 MB across all four languages) is **not** uploaded to this repository. Instead:
-- This folder contains a small **illustrative sample** (`sample_text/sample_format_illustration.jsonl`) showing the schema/format only — it is a hand-written example in the same structure as the real dataset, not an extract of the actual data, since redistributing dataset content is subject to the source's CC BY-NC 4.0 terms.
+- This folder contains a small **illustrative sample** (`sample_text/sample_format_illustration.jsonl`) showing the schema/format only, it is a hand-written example in the same structure as the real dataset, not an extract of the actual data, since redistributing dataset content is subject to the source's CC BY-NC 4.0 terms.
 - The full dataset should be downloaded directly from the official link above (or via the `datasets` Python library — see below) when running the project code.
 
 ```python
