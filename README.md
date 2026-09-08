@@ -1,7 +1,7 @@
 # IDB30102_GroupC_DataLossPrevention
 
 ## Research Title
-A Machine Learning-Based Approach for Robust PII and Sensitive Text Leakage Detection in Data Loss Prevention
+Design and Implementation of a Data Loss Prevention Framework for Mitigating Data Leakage in Organizational Networks
 
 ## Group Number
 Group C
@@ -15,21 +15,21 @@ Group C
 | Gibran Budimann bin Muhammad Fadzil | 52215225007 |
 
 ## Assigned Research Area
-Data Loss Prevention (DLP) — focus on ML/DL-based PII and sensitive text leakage detection
+Data Loss Prevention (DLP) — design and implementation of an integrated multi-layer framework (endpoint, network, and content-based detection) for mitigating data leakage in organizational networks
 
 ## Research Problem
-Existing ML/DL-based DLP models report high detection accuracy but are largely trained and validated on synthetic, simulated, single-source, or English-only datasets. This limits confidence in their reliability and generalizability when deployed in real, multilingual, production-level environments.
+Existing DLP solutions largely address a single detection layer (endpoint-only, network-only, or content-classification-only), leaving organizational networks exposed to leakage vectors outside that layer's coverage. Frameworks that do propose multi-layer/integrated DLP approaches remain largely conceptual, without empirical implementation or testing to demonstrate real-world feasibility.
 
 ## Research Aim
-To develop and evaluate a machine learning-based text classification model for detecting personally identifiable information (PII) and sensitive content, with emphasis on improving robustness across more realistic and diverse text conditions.
+To design and implement a multi-layer Data Loss Prevention framework that integrates endpoint, network, and content-based detection techniques to mitigate data leakage in organizational networks.
 
 ## Research Objectives
-1. To review and analyze existing ML/DL-based approaches for PII and sensitive text leakage detection, and identify their key limitations.
-2. To design and develop a text classification model capable of detecting PII/sensitive content with improved robustness to noisy or non-standard text input.
-3. To evaluate the proposed model's detection performance using accuracy, F1-score, and false-positive rate, and compare it against baseline approaches identified in the literature.
+1. To review existing DLP techniques across endpoint, network, and content-classification layers, and identify gaps in current integrated frameworks.
+2. To design and implement a preliminary DLP framework/prototype combining rule-based/anomaly detection and content classification for an organizational network environment.
+3. To test and evaluate the feasibility of the proposed framework against simulated data leakage scenarios, using detection accuracy and false-positive rate as evaluation metrics.
 
 ## Brief Description of the Proposed Solution
-The project proposes a supervised machine learning / deep learning text classifier trained to identify PII and sensitive content within text data (e.g., emails, chat logs, documents). The model will be benchmarked against baseline approaches (e.g., TF-IDF/SVM, BERT-based classifiers) identified in the literature review, with emphasis on robustness to noisy, obfuscated, or non-English text.
+The project proposes a preliminary, multi-layer DLP framework combining endpoint-level monitoring, network-level anomaly/exfiltration detection, and content-based classification (e.g., TF-IDF/ML-based sensitive content detection). The framework will be demonstrated at prototype level against simulated leakage scenarios, benchmarked using detection accuracy and false-positive rate.
 
 ## Selected Research Methodology and Development Model
 - **Research Methodology:** *[To be completed by Member 3 — Chapter 3, e.g., Design Science Research / Experimental]*
@@ -63,6 +63,6 @@ The project proposes a supervised machine learning / deep learning text classifi
 ## Research Objective → Component Mapping
 | Research Objective | Supporting Component | GitHub Location |
 |---|---|---|
-| RO1 – Review existing PII/text leakage detection methods | Literature review and analysis | `01_Research_Papers/`, `02_Literature_Review/` |
-| RO2 – Design and develop the proposed classification model | Architecture, flowchart, and preliminary code | `03_Architecture_and_Flowchart/`, `04_Source_Code/` |
-| RO3 – Evaluate model performance | Sample data, preliminary/expected results | `05_Data_or_Sample_Input/`, `06_Results_or_Expected_Output/` |
+| RO1 – Review existing DLP techniques across endpoint, network, and content layers | Literature review and analysis | `01_Research_Papers/`, `02_Literature_Review/` |
+| RO2 – Design and implement the preliminary multi-layer DLP framework/prototype | Architecture, flowchart, and preliminary code | `03_Architecture_and_Flowchart/`, `04_Source_Code/` |
+| RO3 – Test and evaluate framework feasibility against simulated leakage scenarios | Sample data, preliminary/expected results | `05_Data_or_Sample_Input/`, `06_Results_or_Expected_Output/` |
