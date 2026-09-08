@@ -26,6 +26,9 @@ Previous research shows that Data Loss Prevention (DLP) is increasingly integrat
 | Gupta & Kush        | 2023 | DLP accuracy                 | TF-IDF classification            | Lower false-positive rate than regex        | Supports improved detection accuracy      |
 | El Moudni & Ziyati  | 2023 | Enterprise leakage detection | Multi-agent + ETL trust scoring  | Classified different trust levels           | Supports trust-based detection            |
 
+## 2.4 Research Gap
+Existing research has suggested a number of Data Loss Prevention (DLP) solutions, but there are a number of gaps. The approach taken by Daubner and Povazanec (2023) was the endpoint-level approach, whereas Yadav and Gupta (2023) used a hybrid approach that combined behaviour, machine learning and network. Other works considered anomaly detection, cloud protection, false-positive reduction and trust-based detection. These methods, however, are still deployed in isolated layers and methods. There is not much focus on embedding the detection and prevention aspects into a combined multi-layer organizational DLP program. This study thus fills the gap, by systematically reviewing the current techniques and selecting suitable parts for an integrated technique that can increase the accuracy of the detection and prevent leakage of organizational data.
+
 
 
 
