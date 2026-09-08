@@ -122,12 +122,12 @@ For each important paper, the following information has been summarized: paper t
 
 ## Source File List
 
-| No | File Name | Source/Venue |
+| No | Title | Source/Venue |
 |---|---|---|
 | 1 | `Data Loss Prevention Solution for Linux Endpoint Devices` | ARES 2023 (ACM), DOI: [10.1145/3600160.3605036](https://doi.org/10.1145/3600160.3605036 ) |
-| 2 | `A_Hybrid_Framework_for_Data_Loss_Prevention_and_Detection.pdf` | IEEE SPARC 2024, DOI: [10.1109/SPARC61891.2024.10828891](https://doi.org/10.1109/sparc61891.2024.10828891) |
-| 3 | `Designing_Data_Loss_Prevention_System_for_The_Enhancement_of_Data_Integrity_in_Cyberspace.pdf` | IEEE ICAC3N 2023, DOI: [10.1109/ICAC3N60023.2023.1054182](https://doi.org/10.1109/icac3n60023.2023.10541823) |
-| 4 | `Data_Leakage_Prevention_Approach_Based_On_Insider_Trust_Calculation.pdf` | IEEE WINCOM 2023, DOI: [10.1109/WINCOM59760.2023.10322935](https://doi.org/10.1109/wincom59760.2023.10322935) |
-| 5 | `Data_Leakage_Prevention_System_for_Internal_Security.pdf` | IEEE INCOFT 2022, DOI: [10.1109/INCOFT55651.2022.10094509](https://doi.org/10.1109/INCOFT55651.2022.10094509) |
+| 2 | `A Hybrid Framework for Data Loss Prevention and Detection` | IEEE SPARC 2024, DOI: [10.1109/SPARC61891.2024.10828891](https://doi.org/10.1109/sparc61891.2024.10828891) |
+| 3 | `Designing Data Loss Prevention System for The Enhancement of Data Integrity in Cyberspace` | IEEE ICAC3N 2023, DOI: [10.1109/ICAC3N60023.2023.1054182](https://doi.org/10.1109/icac3n60023.2023.10541823) |
+| 4 | `Data Leakage Prevention Approach Based On Insider Trust Calculation` | IEEE WINCOM 2023, DOI: [10.1109/WINCOM59760.2023.10322935](https://doi.org/10.1109/wincom59760.2023.10322935) |
+| 5 | `Data Leakage Prevention System for Internal Security` | IEEE INCOFT 2022, DOI: [10.1109/INCOFT55651.2022.10094509](https://doi.org/10.1109/INCOFT55651.2022.10094509) |
 | 6 | `A HOLISTIC VIEW ON DATA PROTECTION FOR SHARING, COMMUNICATING, AND COMPUTING ENVIRONMENTS: TAXONOMY AND FUTURE DIRECTIONS` | arXiv:2202.11965 [cs.CR](https://arxiv.org/abs/2202.11965) |
 | 7 | `A Learning oriented DLP System based on Classification Model` | INFOCOMP, v.19, no.2, 2020 [cs.CR](https://arxiv.org/abs/2312.13711) |
