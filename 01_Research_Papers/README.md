@@ -124,7 +124,7 @@ For each important paper, the following information has been summarized: paper t
 
 | No | File Name | Source/Venue |
 |---|---|---|
-| 1 | `1.pdf` | ARES 2023 (ACM), DOI: 10.1145/3600160.3605036 |
+| 1 | [1.pdf](https://github.com/user-attachments/files/31935698/1.pdf)| ARES 2023 (ACM), DOI: 10.1145/3600160.3605036 |
 | 2 | `A_Hybrid_Framework_for_Data_Loss_Prevention_and_Detection.pdf` | IEEE SPARC 2024, DOI: 10.1109/SPARC61891.2024.10828891 |
 | 3 | `Designing_Data_Loss_Prevention_System_for_The_Enhancement_of_Data_Integrity_in_Cyberspace.pdf` | IEEE ICAC3N 2023, DOI: 10.1109/ICAC3N60023.2023.10541823 |
 | 4 | `Data_Leakage_Prevention_Approach_Based_On_Insider_Trust_Calculation.pdf` | IEEE WINCOM 2023, DOI: 10.1109/WINCOM59760.2023.10322935 |
