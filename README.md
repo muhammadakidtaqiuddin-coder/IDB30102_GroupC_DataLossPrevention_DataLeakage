@@ -11,10 +11,10 @@
 | Field | Details |
 |---|---|
 | **Group Number** | Group C |
-| **Group Members & Student IDs** | [Member 1 Name — Student ID]<br>[Member 2 Name — Student ID]<br>[Member 3 Name — Student ID]<br>[Member 4 Name — Student ID] |
-| **Course** | IDB30102 — Research Methodology (BCSS) |
+| **Group Members & Student IDs** | [Muhammad Akid Taqiuddin Bin Dzul Izzuidn — 52215225321]<br>[Muhammad Daniel bin Daud — 52215225164]<br>[Khairul'Anam bin Mohammad Fairuze — 52215225007]<br>[Gibran Budimann bin Muhammad Fadzil — Student ID] |
+| **Course** | IDB30102 — Research Methodology (BCS) |
 | **Assigned Research Area** | Data Loss Prevention (DLP) |
-| **Suggested Focus** | Data leakage, insider threats, encryption, data classification |
+| **Suggested Focus** | Data leakage |
 
 ---
 
