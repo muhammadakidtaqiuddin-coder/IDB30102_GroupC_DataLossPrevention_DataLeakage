@@ -1,6 +1,6 @@
 # IDB30102_GroupC_DataLossPrevention
 
-**Research Title:** Design and Implementation of a Data Loss Prevention Framework for Mitigating Data Leakage in Organizational Networks
+**Research Title:** IMPROVING DATA LEAKAGE DETECTION ACCURACY THROUGH A HYBRID CLASSIFICATION AND ANOMALY-BASED APPROACH FOR ORGANIZATIONAL NETWORKS
 
 > **[Fill in before submission — bracketed items are placeholders]**
 
