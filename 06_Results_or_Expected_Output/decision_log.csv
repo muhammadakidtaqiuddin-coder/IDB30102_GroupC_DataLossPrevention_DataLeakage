@@ -1,6 +1,0 @@
-event_id,user,filename,destination,sensitivity_label,signature_matches,anomaly_flag,z_score,action,reason,timestamp
-1,bob,team_lunch_invite.txt,internal_drive,Unrestricted,none,True,-6.37,ALERT,Default caution: partial risk signal detected.,2026-09-08T09:46:44
-2,dave,q3_roadmap.txt,internal_drive,Internal,KEYWORD:do not forward,True,-2.12,ALERT,Sensitive content flagged by signature detection or behavioral anomaly.,2026-09-08T09:46:44
-3,alice,payroll_export.txt,external_usb,Restricted,SSN;KEYWORD:confidential;KEYWORD:restricted,False,1.88,BLOCK,Restricted content attempted transfer to an external destination.,2026-09-08T09:46:44
-4,carol,customer_export.txt,cloud_upload,Restricted,CREDIT_CARD;KEYWORD:restricted,False,2.0,BLOCK,Restricted content attempted transfer to an external destination.,2026-09-08T09:46:44
-5,bob,internal_notes.txt,internal_drive,Internal,KEYWORD:internal use only,False,-0.32,ALERT,Sensitive content flagged by signature detection or behavioral anomaly.,2026-09-08T09:46:44
