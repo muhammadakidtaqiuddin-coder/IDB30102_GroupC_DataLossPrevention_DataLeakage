@@ -1,0 +1,151 @@
+event_id,user,true_label,text,destination,volume_mb,is_spike_injected,ground_truth_leak
+1,alice,Restricted,Restricted: customer credit card number 4539 1488 0343 6467 was flagged for review.,internal_drive,137.2,False,False
+2,bob,Unrestricted,Please find attached the public press release announcing our new product launch.,internal_drive,27.3,False,False
+3,alice,Internal,Internal use only: preliminary sales figures for the current quarter.,personal_email,1895.4,True,True
+4,bob,Internal,"Internal memo: the server migration is scheduled for this weekend, IT staff only.",internal_drive,24.4,False,False
+5,dave,Internal,"Internal memo: the server migration is scheduled for this weekend, IT staff only.",external_usb,12.3,False,True
+6,alice,Unrestricted,Quarterly team lunch is scheduled for Friday at noon in the main cafeteria.,external_usb,150.3,False,False
+7,bob,Unrestricted,The office will be closed on national holidays as per the published calendar.,external_usb,18.1,False,False
+8,alice,Restricted,"Restricted: source code for the proprietary encryption module, trade secret.",personal_email,6052.3,True,True
+9,carol,Internal,"Attached is the internal budget draft for the upcoming fiscal year, for department heads only.",internal_drive,252.3,False,False
+10,dave,Restricted,Restricted access: patient medical records including diagnosis and treatment history.,internal_drive,19.0,False,False
+11,carol,Internal,Internal use only: preliminary sales figures for the current quarter.,external_usb,156.1,False,True
+12,bob,Unrestricted,The annual sports day will be held at the community stadium this year.,cloud_upload,26.7,False,False
+13,alice,Restricted,"CONFIDENTIAL legal settlement terms, not to be shared outside legal counsel.",personal_email,4884.3,True,True
+14,carol,Unrestricted,The office will be closed on national holidays as per the published calendar.,external_usb,188.2,False,False
+15,carol,Restricted,"CONFIDENTIAL: employee salary details for the engineering department, SSN 512-34-9876.",internal_drive,180.7,False,False
+16,bob,Unrestricted,Marketing team welcomes two new interns joining this semester.,external_usb,17.0,False,False
+17,bob,Unrestricted,Quarterly team lunch is scheduled for Friday at noon in the main cafeteria.,cloud_upload,25.4,False,False
+18,bob,Internal,This document outlines internal process changes for the finance approval workflow.,internal_drive,19.2,False,False
+19,alice,Internal,Please keep this internal org chart confidential to the management team.,external_usb,181.6,False,True
+20,carol,Internal,Please keep this internal org chart confidential to the management team.,external_usb,224.7,False,True
+21,dave,Unrestricted,Reminder: the cafeteria menu has been updated with new vegetarian options.,external_usb,238.4,True,False
+22,carol,Unrestricted,Please distribute the public FAQ document to all customers on our website.,personal_email,225.5,False,False
+23,bob,Restricted,"CONFIDENTIAL: employee salary details for the engineering department, SSN 512-34-9876.",external_usb,14.0,False,True
+24,alice,Internal,"Team, please do not forward this internal roadmap document outside the department.",internal_drive,2260.9,True,True
+25,dave,Restricted,"CONFIDENTIAL merger agreement details, distribution limited to executive board only.",internal_drive,16.2,False,False
+26,dave,Unrestricted,Please distribute the public FAQ document to all customers on our website.,cloud_upload,19.3,False,False
+27,alice,Unrestricted,General announcement: office Wi-Fi will be upgraded next week.,internal_drive,177.4,False,False
+28,carol,Internal,"Attached is the internal budget draft for the upcoming fiscal year, for department heads only.",cloud_upload,5372.9,True,True
+29,dave,Restricted,"CONFIDENTIAL: employee salary details for the engineering department, SSN 512-34-9876.",internal_drive,19.5,False,False
+30,carol,Internal,Internal use only: preliminary sales figures for the current quarter.,external_usb,168.0,False,True
+31,carol,Internal,Please review the internal project timeline for the Q3 roadmap before Monday's meeting.,external_usb,7944.6,True,True
+32,alice,Unrestricted,Quarterly team lunch is scheduled for Friday at noon in the main cafeteria.,cloud_upload,118.8,False,False
+33,carol,Unrestricted,General announcement: office Wi-Fi will be upgraded next week.,cloud_upload,3851.6,True,False
+34,alice,Restricted,"CONFIDENTIAL merger agreement details, distribution limited to executive board only.",internal_drive,215.9,False,False
+35,bob,Restricted,"CONFIDENTIAL: employee salary details for the engineering department, SSN 512-34-9876.",external_usb,28.2,False,True
+36,bob,Restricted,CONFIDENTIAL security incident report detailing the breach root cause and affected systems.,cloud_upload,22.6,False,True
+37,bob,Internal,"Attached is the internal budget draft for the upcoming fiscal year, for department heads only.",external_usb,19.1,False,True
+38,carol,Unrestricted,Reminder: the cafeteria menu has been updated with new vegetarian options.,personal_email,235.7,False,False
+39,bob,Restricted,Board-only CONFIDENTIAL acquisition target list and valuation figures.,external_usb,180.4,True,True
+40,bob,Unrestricted,The office will be closed on national holidays as per the published calendar.,external_usb,637.5,True,False
+41,alice,Internal,"Internal memo: the server migration is scheduled for this weekend, IT staff only.",external_usb,1551.9,True,True
+42,carol,Internal,Internal draft of the employee onboarding checklist for new hires.,internal_drive,201.7,False,False
+43,dave,Restricted,"Restricted: source code for the proprietary encryption module, trade secret.",external_usb,17.7,False,True
+44,dave,Restricted,Restricted database export containing customer PII and payment card numbers 4024007198765432.,external_usb,18.7,False,True
+45,bob,Restricted,"CONFIDENTIAL: employee salary details for the engineering department, SSN 512-34-9876.",internal_drive,453.3,True,True
+46,dave,Unrestricted,Please find attached the public press release announcing our new product launch.,personal_email,17.7,False,False
+47,alice,Internal,Internal use only: preliminary sales figures for the current quarter.,internal_drive,150.2,False,False
+48,alice,Unrestricted,Please distribute the public FAQ document to all customers on our website.,external_usb,4336.1,True,False
+49,bob,Internal,"Draft internal policy on remote work arrangements, pending HR review.",personal_email,474.3,True,True
+50,alice,Restricted,Restricted: customer credit card number 4539 1488 0343 6467 was flagged for review.,personal_email,221.4,False,True
+51,alice,Restricted,Board-only CONFIDENTIAL acquisition target list and valuation figures.,internal_drive,177.9,False,False
+52,alice,Restricted,Restricted access: patient medical records including diagnosis and treatment history.,internal_drive,220.4,False,False
+53,bob,Restricted,CONFIDENTIAL security incident report detailing the breach root cause and affected systems.,personal_email,16.0,False,True
+54,dave,Internal,"Team, please do not forward this internal roadmap document outside the department.",internal_drive,121.0,True,True
+55,dave,Unrestricted,The updated parking policy applies to all employees starting next month.,cloud_upload,18.4,False,False
+56,carol,Internal,Please keep this internal org chart confidential to the management team.,personal_email,290.4,False,True
+57,dave,Restricted,"This file contains client passwords and API keys, do not distribute: api_key=sk_live_29d8f7ah3k.",external_usb,224.5,True,True
+58,alice,Internal,"Internal memo: the server migration is scheduled for this weekend, IT staff only.",internal_drive,111.3,False,False
+59,dave,Internal,Please review the internal project timeline for the Q3 roadmap before Monday's meeting.,external_usb,363.8,True,True
+60,bob,Restricted,Restricted access: patient medical records including diagnosis and treatment history.,internal_drive,23.7,False,False
+61,bob,Internal,"Draft internal policy on remote work arrangements, pending HR review.",personal_email,759.0,True,True
+62,bob,Unrestricted,The office will be closed on national holidays as per the published calendar.,internal_drive,19.5,False,False
+63,carol,Unrestricted,The updated parking policy applies to all employees starting next month.,cloud_upload,7581.1,True,False
+64,bob,Restricted,"Restricted: source code for the proprietary encryption module, trade secret.",cloud_upload,23.7,False,True
+65,carol,Restricted,Restricted: customer credit card number 4539 1488 0343 6467 was flagged for review.,personal_email,294.6,False,True
+66,alice,Internal,Please review the internal project timeline for the Q3 roadmap before Monday's meeting.,internal_drive,241.1,False,False
+67,alice,Unrestricted,Quarterly team lunch is scheduled for Friday at noon in the main cafeteria.,internal_drive,173.1,False,False
+68,bob,Restricted,"CONFIDENTIAL merger agreement details, distribution limited to executive board only.",cloud_upload,27.1,False,True
+69,carol,Restricted,Employee SSN 601-22-3345 and bank account 004512378 must be encrypted before storage.,cloud_upload,8503.5,True,True
+70,carol,Internal,"Internal memo: the server migration is scheduled for this weekend, IT staff only.",internal_drive,255.9,False,False
+71,alice,Internal,This document outlines internal process changes for the finance approval workflow.,external_usb,6285.1,True,True
+72,bob,Restricted,"CONFIDENTIAL legal settlement terms, not to be shared outside legal counsel.",cloud_upload,306.6,True,True
+73,carol,Unrestricted,Quarterly team lunch is scheduled for Friday at noon in the main cafeteria.,external_usb,314.4,False,False
+74,dave,Restricted,Employee SSN 601-22-3345 and bank account 004512378 must be encrypted before storage.,cloud_upload,19.2,False,True
+75,alice,Internal,Internal use only: preliminary sales figures for the current quarter.,personal_email,109.5,False,True
+76,carol,Internal,"Attached is the internal budget draft for the upcoming fiscal year, for department heads only.",external_usb,198.5,False,True
+77,dave,Unrestricted,The office will be closed on national holidays as per the published calendar.,personal_email,10.3,False,False
+78,bob,Restricted,"This file contains client passwords and API keys, do not distribute: api_key=sk_live_29d8f7ah3k.",internal_drive,22.2,False,False
+79,bob,Restricted,"CONFIDENTIAL legal settlement terms, not to be shared outside legal counsel.",personal_email,371.6,True,True
+80,alice,Internal,"Draft internal policy on remote work arrangements, pending HR review.",cloud_upload,2754.7,True,True
+81,alice,Unrestricted,Marketing team welcomes two new interns joining this semester.,cloud_upload,225.3,False,False
+82,dave,Restricted,Board-only CONFIDENTIAL acquisition target list and valuation figures.,external_usb,11.8,False,True
+83,bob,Internal,This document outlines internal process changes for the finance approval workflow.,external_usb,12.9,False,True
+84,carol,Restricted,CONFIDENTIAL security incident report detailing the breach root cause and affected systems.,personal_email,316.6,False,True
+85,bob,Restricted,Employee SSN 601-22-3345 and bank account 004512378 must be encrypted before storage.,cloud_upload,633.2,True,True
+86,dave,Internal,"Internal memo: the server migration is scheduled for this weekend, IT staff only.",internal_drive,11.7,False,False
+87,dave,Internal,This document outlines internal process changes for the finance approval workflow.,cloud_upload,18.5,False,True
+88,bob,Internal,Internal draft of the employee onboarding checklist for new hires.,external_usb,294.9,True,True
+89,carol,Internal,Internal draft of the employee onboarding checklist for new hires.,cloud_upload,336.8,False,True
+90,carol,Restricted,Restricted: customer credit card number 4539 1488 0343 6467 was flagged for review.,cloud_upload,225.5,False,True
+91,carol,Unrestricted,Quarterly team lunch is scheduled for Friday at noon in the main cafeteria.,internal_drive,9575.8,True,False
+92,bob,Internal,Internal draft of the employee onboarding checklist for new hires.,cloud_upload,563.5,True,True
+93,carol,Restricted,"This file contains client passwords and API keys, do not distribute: api_key=sk_live_29d8f7ah3k.",cloud_upload,340.2,False,True
+94,alice,Restricted,Employee SSN 601-22-3345 and bank account 004512378 must be encrypted before storage.,personal_email,129.6,False,True
+95,alice,Restricted,Restricted access: patient medical records including diagnosis and treatment history.,personal_email,6482.9,True,True
+96,bob,Restricted,"This file contains client passwords and API keys, do not distribute: api_key=sk_live_29d8f7ah3k.",cloud_upload,28.3,False,True
+97,carol,Internal,"Internal memo: the server migration is scheduled for this weekend, IT staff only.",cloud_upload,171.6,False,True
+98,carol,Unrestricted,Reminder: the cafeteria menu has been updated with new vegetarian options.,cloud_upload,211.1,False,False
+99,carol,Restricted,Restricted database export containing customer PII and payment card numbers 4024007198765432.,external_usb,7178.9,True,True
+100,dave,Internal,"Attached is the internal budget draft for the upcoming fiscal year, for department heads only.",external_usb,12.6,False,True
+101,alice,Restricted,Restricted access: patient medical records including diagnosis and treatment history.,cloud_upload,3749.4,True,True
+102,carol,Restricted,"Restricted: source code for the proprietary encryption module, trade secret.",personal_email,279.7,False,True
+103,dave,Restricted,CONFIDENTIAL security incident report detailing the breach root cause and affected systems.,external_usb,12.4,False,True
+104,carol,Internal,Internal draft of the employee onboarding checklist for new hires.,internal_drive,294.5,False,False
+105,carol,Restricted,Restricted database export containing customer PII and payment card numbers 4024007198765432.,external_usb,176.0,False,True
+106,alice,Restricted,Restricted database export containing customer PII and payment card numbers 4024007198765432.,external_usb,187.7,False,True
+107,alice,Restricted,"CONFIDENTIAL legal settlement terms, not to be shared outside legal counsel.",personal_email,190.2,False,True
+108,bob,Unrestricted,Please distribute the public FAQ document to all customers on our website.,personal_email,16.5,False,False
+109,alice,Restricted,Restricted access: patient medical records including diagnosis and treatment history.,internal_drive,133.6,False,False
+110,dave,Internal,This document outlines internal process changes for the finance approval workflow.,internal_drive,20.0,False,False
+111,alice,Restricted,Employee SSN 601-22-3345 and bank account 004512378 must be encrypted before storage.,personal_email,3941.0,True,True
+112,carol,Unrestricted,The office will be closed on national holidays as per the published calendar.,personal_email,288.2,False,False
+113,dave,Restricted,"CONFIDENTIAL merger agreement details, distribution limited to executive board only.",personal_email,17.9,False,True
+114,dave,Restricted,Employee SSN 601-22-3345 and bank account 004512378 must be encrypted before storage.,personal_email,238.7,True,True
+115,carol,Restricted,Board-only CONFIDENTIAL acquisition target list and valuation figures.,personal_email,201.0,False,True
+116,alice,Internal,Internal use only: preliminary sales figures for the current quarter.,cloud_upload,3230.8,True,True
+117,alice,Unrestricted,Our company newsletter this month covers community volunteering events.,external_usb,3491.0,True,False
+118,bob,Unrestricted,The annual sports day will be held at the community stadium this year.,external_usb,437.7,True,False
+119,dave,Unrestricted,Reminder: the cafeteria menu has been updated with new vegetarian options.,personal_email,519.8,True,False
+120,dave,Internal,"Internal memo: the server migration is scheduled for this weekend, IT staff only.",internal_drive,18.2,False,False
+121,dave,Restricted,"Restricted: source code for the proprietary encryption module, trade secret.",personal_email,288.8,True,True
+122,dave,Restricted,"This file contains client passwords and API keys, do not distribute: api_key=sk_live_29d8f7ah3k.",personal_email,17.8,False,True
+123,bob,Unrestricted,The annual sports day will be held at the community stadium this year.,personal_email,456.5,True,False
+124,alice,Unrestricted,Reminder: the cafeteria menu has been updated with new vegetarian options.,personal_email,197.0,False,False
+125,dave,Restricted,"Restricted: source code for the proprietary encryption module, trade secret.",external_usb,20.0,False,True
+126,alice,Restricted,"CONFIDENTIAL legal settlement terms, not to be shared outside legal counsel.",personal_email,194.8,False,True
+127,alice,Internal,Please review the internal project timeline for the Q3 roadmap before Monday's meeting.,personal_email,3924.8,True,True
+128,alice,Unrestricted,The annual sports day will be held at the community stadium this year.,cloud_upload,132.6,False,False
+129,carol,Internal,Internal use only: preliminary sales figures for the current quarter.,cloud_upload,221.5,False,True
+130,dave,Unrestricted,Our company newsletter this month covers community volunteering events.,cloud_upload,14.6,False,False
+131,alice,Internal,Please review the internal project timeline for the Q3 roadmap before Monday's meeting.,cloud_upload,1757.1,True,True
+132,alice,Unrestricted,The annual sports day will be held at the community stadium this year.,internal_drive,130.9,False,False
+133,alice,Unrestricted,Reminder: the cafeteria menu has been updated with new vegetarian options.,external_usb,3990.2,True,False
+134,alice,Unrestricted,The updated parking policy applies to all employees starting next month.,external_usb,138.7,False,False
+135,carol,Restricted,CONFIDENTIAL security incident report detailing the breach root cause and affected systems.,external_usb,336.2,False,True
+136,alice,Unrestricted,Our company newsletter this month covers community volunteering events.,external_usb,118.3,False,False
+137,alice,Unrestricted,The office will be closed on national holidays as per the published calendar.,cloud_upload,228.6,False,False
+138,dave,Internal,This document outlines internal process changes for the finance approval workflow.,personal_email,11.4,False,True
+139,bob,Internal,"Attached is the internal budget draft for the upcoming fiscal year, for department heads only.",internal_drive,17.5,False,False
+140,alice,Restricted,Employee SSN 601-22-3345 and bank account 004512378 must be encrypted before storage.,internal_drive,162.5,False,False
+141,carol,Internal,"Team, please do not forward this internal roadmap document outside the department.",internal_drive,214.1,False,False
+142,dave,Internal,"Team, please do not forward this internal roadmap document outside the department.",personal_email,581.2,True,True
+143,dave,Restricted,Restricted access: patient medical records including diagnosis and treatment history.,external_usb,17.8,False,True
+144,carol,Restricted,Restricted access: patient medical records including diagnosis and treatment history.,personal_email,309.1,False,True
+145,carol,Internal,"Draft internal policy on remote work arrangements, pending HR review.",cloud_upload,310.1,False,True
+146,alice,Restricted,"CONFIDENTIAL: employee salary details for the engineering department, SSN 512-34-9876.",cloud_upload,137.0,False,True
+147,dave,Unrestricted,The office will be closed on national holidays as per the published calendar.,personal_email,14.9,False,False
+148,carol,Restricted,Board-only CONFIDENTIAL acquisition target list and valuation figures.,external_usb,216.7,False,True
+149,carol,Internal,Internal draft of the employee onboarding checklist for new hires.,cloud_upload,6639.3,True,True
+150,carol,Unrestricted,Marketing team welcomes two new interns joining this semester.,internal_drive,184.6,False,False
