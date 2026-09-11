@@ -1,0 +1,4 @@
+approach,accuracy,precision,recall,f1_score,false_positive_rate
+Classification-only (baseline),0.793,0.748,0.939,0.832,0.382
+Anomaly-only (baseline),0.613,0.682,0.549,0.608,0.309
+Hybrid classification + anomaly (proposed),0.933,0.939,0.939,0.939,0.074
